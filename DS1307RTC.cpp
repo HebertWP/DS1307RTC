@@ -35,7 +35,6 @@
 
 DS1307RTC::DS1307RTC()
 {
-  Wire.begin();
 }
   
 // PUBLIC FUNCTIONS
